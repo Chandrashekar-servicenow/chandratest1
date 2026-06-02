@@ -24,4 +24,4 @@ jobs:
         run: python --version
 
       - name: Success Message
-        run: echo "Pipeline is working successfully"
+        run: echo "Pipeline is working succcessfully"
